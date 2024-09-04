@@ -1,0 +1,7 @@
+@url = https://8080-tbsrick-sw2bapi-fq5tcym642z.ws-us116.gitpod.io
+
+###
+
+GET {{url}}/frutas
+###
+GET {{url}}/frutas/2
